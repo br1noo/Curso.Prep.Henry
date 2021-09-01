@@ -232,7 +232,6 @@ function deEuroAdolar(euro){
   return euro * 1.20 / 1;
 }
 
-
 function esVocal(letra){
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
