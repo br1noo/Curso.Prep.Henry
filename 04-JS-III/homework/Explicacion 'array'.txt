@@ -1,0 +1,5 @@
+    Explicación Array/Matriz/Arreglo:
+Si tuviesemos un estante y en el hubiesen cajas y/o frascos que a su vez almacenan otras cosas,
+el arreglo o matriz seria el estante. De alguna manera sirve para aglomerar conjuntos de datos o cosas
+para asi poder cuando uno quiera buscar algo en específico o saber algo concreto de esos datos o cosas
+pueda acceder fácilmente.
