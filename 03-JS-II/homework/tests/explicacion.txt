@@ -1,0 +1,24 @@
+Operadores lógicos:
+
+    &&
+Este operador se llama 'y' o en ingles 'and', sirve para cuando uno tiene dos cosas
+que debe saber si son verdaderas o falsas. Uno sabe cuando son verdaderas,
+porque para que el operador devuelva 'true' ambas expresiones
+tienen que ser verdares, de lo contrario devolvera 'false' o falso.
+
+    ||
+Este operador se llama 'o' o en ingles 'or'. Es parecido al &&, pero se diferencia en que
+para que el operador devuelva 'false', las expresiones deben ser todas falsas.
+En caso contrario, si una o mas expresiones es verdadera, devolvera 'true'.
+
+    !
+Este operador se llama 'no' o en ingles 'not' y su funcion es la de negar las expresiones, 
+es decir, hace que nos devuelva el valor opuesto al que nos devolveria si no estuviese el simbolo '!'.
+
+    for
+Este operador sirve para hacer que algo se repita infinitas veces y pare de repetirse cuando se cumpla 
+una condicion especial que diga lo contrario y haga que deje de repetirse. Para que funciones bien
+hay que armar el operador con tres piezas. La primera es definir o darle nombre a algo, la segunda
+es crear un ambiente o lugar en el cual se mueva con ciertas condiciones y la tercera es decirle a todo 
+lo demas que se repita e incremente en +1 su valor, de esa manera se repitiría infinitamente o hasta
+que no cumpla las condiciones del segundo paso.
